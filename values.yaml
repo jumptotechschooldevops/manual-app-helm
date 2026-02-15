@@ -1,0 +1,9 @@
+image:
+  repository: aisalkyn85/manual-k8s-app
+  tag: "9"
+  pullPolicy: Always
+
+service:
+  type: ClusterIP
+  port: 3000
+
