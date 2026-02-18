@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: aisalkyn85/manual-app
-  tag: "11"
+  tag: "${10}"
   pullPolicy: Always
 
 service:
